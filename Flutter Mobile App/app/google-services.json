@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "457989117274",
+    "firebase_url": "https://iotremote-be300-default-rtdb.firebaseio.com",
+    "project_id": "iotremote-be300",
+    "storage_bucket": "iotremote-be300.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457989117274:android:b7f8ddd58d9d095f2f0f63",
+        "android_client_info": {
+          "package_name": "com.furious_five.iot_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "457989117274-ig8j3jm247nhb6irvlh724uqde83j7l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMsupnI4jDGyihz2ZPs_xaqt7r3mu2fMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "457989117274-ig8j3jm247nhb6irvlh724uqde83j7l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

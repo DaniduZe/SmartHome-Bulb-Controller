@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iot_app</string>
+    <string name="on">On</string>
+    <string name="off">Off</string>
+    <string name="humidity">Humidity</string>
+    <string name="temperature">Temperature</string>
+</resources>
