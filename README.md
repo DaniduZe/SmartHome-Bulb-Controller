@@ -30,3 +30,6 @@ software development kit. To ensure the system's accessibility from any location
 the database to the internet and used Firebase as the cloud database server. For implementing the
 code in our IoT circuits, we used the Arduino IDE. The devices we used include Node MCU,
 Relay, DHT 11 Humidity Sensor, 5V Bulb, and Wires
+
+<h2>Circute Diagram</h2>
+
