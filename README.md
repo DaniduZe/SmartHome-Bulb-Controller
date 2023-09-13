@@ -33,4 +33,8 @@ Relay, DHT 11 Humidity Sensor, 5V Bulb, and Wires
 
 <h2>Circuite Diagram</h2>
 <img src ="https://github.com/DaniduZe/SmartHome-Bulb-Controller/assets/110765521/4615a73a-369c-48f3-bbb4-3acc0bf973c7">
+<br>
+<h2>Final Resault</h2>
+<img src = "https://github.com/DaniduZe/SmartHome-Bulb-Controller/assets/110765521/e77ef8b9-f714-41a6-803d-60518df8d77a">
+
 
