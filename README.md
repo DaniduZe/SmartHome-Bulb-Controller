@@ -32,5 +32,5 @@ code in our IoT circuits, we used the Arduino IDE. The devices we used include N
 Relay, DHT 11 Humidity Sensor, 5V Bulb, and Wires
 
 <h2>Circuite Diagram</h2>
-<img src ="![circuit](https://github.com/DaniduZe/SmartHome-Bulb-Controller/assets/110765521/4615a73a-369c-48f3-bbb4-3acc0bf973c7)">
+<img src ="https://github.com/DaniduZe/SmartHome-Bulb-Controller/assets/110765521/4615a73a-369c-48f3-bbb4-3acc0bf973c7">
 
